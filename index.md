@@ -7,7 +7,7 @@
 <html>
 <body>
 
-<h1>         Welcome to TMTP!         </h1>
+<h1>--------Welcome to TMTP!--------</h1>
 
 <p>The most recent thing TMTP has made is Egg Antivirus 2.0.</p>
 
